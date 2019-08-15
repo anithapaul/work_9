@@ -4,7 +4,7 @@ var app=new Express();
 books=[
     {
         'title':'Aatujeevitham',
-        'author':'Aatujeevitham',
+        'author':'Benyamin',
         'publisher':'Green Books',
         'date_of_publication':'15 July 2008',
         'distributor':'Green Books',
